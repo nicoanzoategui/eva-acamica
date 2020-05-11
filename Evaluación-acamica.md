@@ -1,0 +1,12 @@
+# Devolución wireframes
+## General
+Los wireframe están super completos y detallados. El nivel de detalle de los wireframes está muy claro y pudimos comprender el funcionamiento de los componentes. Para avanzar, iterá los wireframes ajustando el nivel de detalle, aplicando textos y contenido real en todas las pantallas. 
+- En el mapa cuando todavía no esta registrado el usuario, los iconos van a mostrar ubicaciones reales? ¿cómo funciona esto en relación al valor de seguridad del producto? ¿de qué otra forma se puede resolver?
+- Para el wireframe, tené en cuenta unificar idioma para que sea claro para el usuario, por ej en la vista de iniciar sesión los botones están en inglés. En esta pantalla además, aconsejamos revisar la jerarquía de la información, ya que las opciones de sign in y sign up compiten mucho entre sí. ¿Es posible balancear una sobre otra? Sino, tene en cuenta que los accesos y la diferencia sea super clara entre cada sección, ya que pueden resultar muy similares para el usuario y generar confusión.
+## Jerarquia y orden de lectura
+- En el detalle de publicación, en general se ve bien el orden de lectura de la información. Trabaja la vista con texto real para evaluar cómo se vería, chequear tamaños y comprobar orden de lectura. Actualmente los cuatro cuadrantes están muy marcados, y puede generar cierta tensión visual en el momento de lectura.
+- La vista de mi perfil en general se ve muy bien. Trabajarla con texto real para probar los tamaños que se van generando y como funciona el recorrido de lectura entre cada elemento. ¿Cómo funcionan las opciones de busco room / publico room? 
+- En la vista de publicar room, sugerimos revisar los tamaños de los componentes, especialmente del módulo para subir imágenes (¿cómo es el funcionamiento?). Para la selección de características mediante iconos, tener en cuenta que los iconos deberían ser super claros para que funcionen por sí solos. Considerar el caso de uso de un usuario que no comprende un icono en particular.
+- Esta muy buena la vista previa con el resumen de publicación, la trabajaría con textos reales para comprobar que sea legible en la vista previa.
+## Conclusión
+- En general entonces, muy buenos avances de wireframes, se nota el esfuerzo y dedicación aplicados. Para seguir avanzando, trabajar los wireframes con información real en cada elemento, y ajustar tamaños y orden de lectura. Sugerimos también ir contrastando con patrones de sitios existentes. Buen avance!
