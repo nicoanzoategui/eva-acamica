@@ -18,10 +18,10 @@ Le pedimos demasiada información a completar antes de que pueda ver la oferta d
 - Las opciones de “sobre vos” y “tus preferencias”, considero que están mal ubicadas en pantalla, recordemos que el comportamiento del usuario es de arriba hacia abajo, por ende no creo que sea el lugar correcto para la ubicación de esos componentes.
 ### Pantalla modo ¿Qué necesitas?
 - No comprendo si es texto maqueta o final, pero la pregunta es un poco brusca, busquemos un tono más amable para preguntar cual es la acción que desea hacer el usuario. 
-- Acá considero que hay un tema bastante complejo, y es que limitamos al usuario a una acción cuando el usuario tiene claramente dos opciones en el sitio, “Publicar” y “Busca”, las dudas que surgen de esta pantalla son:
- - ¿Como podes cambiar de modo luego del registro? (de buscar a ofrecer vivienda) 
- - ¿Desde que lugar voy a modificar eso? 
- - En el caso de querer ofrecer mi vivienda ¿Qué preguntas me van a hacer?
+- Acá considero que hay un tema bastante complejo, y es que limitamos al usuario a una acción cuando el usuario tiene claramente dos opciones en el sitio, “Publicar” y “Buscar”, las dudas que surgen de esta pantalla son:
+ 1. ¿Como podes cambiar de modo luego del registro? (de buscar a ofrecer vivienda) 
+ 2. ¿Desde que lugar voy a modificar eso? 
+ 3. En el caso de querer ofrecer mi vivienda ¿Qué preguntas me van a hacer?
 
 ### Dashboard de vivienda 
 - Los promedios de compatibilidad, personalidad y vivienda, me parecen muy valiosos para la oferta. Me parece muy bueno como resolviste de esa forma algo que para el usuario puede ser fundamental a la hora de definirse por una vivienda u otra, te felicito.
